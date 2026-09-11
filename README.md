@@ -4,7 +4,7 @@
 
 This project focuses on analyzing retail sales data using Excel, SQL, Python, and Power BI.
 
-The project transforms raw retail data into meaningful business insights through data cleaning, data analysis, and interactive Power BI dashboards.
+The project transforms raw retail data into meaningful business insights through data preparation, data cleaning, analysis, and interactive Power BI dashboards.
 
 ## 🎯 Objectives
 
@@ -50,44 +50,53 @@ Business Insights
 - Staff Sales Performance Analysis
 - Revenue Analysis
 - Low Stock Product Analysis
+- Category-wise Sales Analysis
 
 ## 📊 Power BI Dashboard
 
 The project contains the following analytical pages:
 
-### 1. Sales Overview & Performance
+### 1. Home Page
 
-Provides an overview of overall sales performance including revenue, orders, customers, and average order value.
+Provides an overview of the Retail Sales Analytics project and the Power BI dashboard.
 
-### 2. Product Sales & Inventory Analysis
+### 2. Sales Overview
+
+Provides an overview of overall sales performance, including revenue, orders, customers, and average order value.
+
+### 3. Products
 
 Analyzes product-level sales performance and inventory levels, including identification of low-stock products.
 
-### 3. Customer Purchase Analysis
+### 4. Customer Analysis
 
 Analyzes customer purchasing behavior, revenue contribution, and customer segments.
 
-### 4. Staff Sales Performance Analysis
+### 5. Staff Analysis
 
 Analyzes staff-wise sales performance and compares revenue and order performance.
 
 ## 🖼️ Dashboard Screenshots
 
-### Sales Overview & Performance
+### Home Page
+
+![Home Page](Screenshots/Home%20Page.png)
+
+### Sales Overview
 
 ![Sales Overview](Screenshots/Sales%20Overview.png)
 
-### Product Sales & Inventory Analysis
+### Products
 
-![Product Sales & Inventory Analysis](Screenshots/Product%20Sales%20%26%20Inventory%20Analysis.png)
+![Products](Screenshots/Products.png)
 
-### Customer Purchase Analysis
+### Customer Analysis
 
-![Customer Purchase Analysis](Screenshots/Customer%20Purchase%20Analysis.png)
+![Customer Analysis](Screenshots/Customer%20Analysis.png)
 
-### Staff Sales Performance Analysis
+### Staff Analysis
 
-![Staff Sales Performance Analysis](Screenshots/Staff%20Sales%20Performance%20Analysis.png)
+![Staff Analysis](Screenshots/Staff%20Analysis.png)
 
 ## 📂 Project Files
 
@@ -118,6 +127,13 @@ The analysis helps identify:
 - Low-stock products
 - Staff sales performance
 - Revenue contribution across different business areas
+- Sales performance across product categories
+
+## 📌 Business Value
+
+This project demonstrates how data analytics tools can be used to convert raw retail data into actionable business insights.
+
+The interactive Power BI dashboard helps users understand sales performance, customer behavior, product performance, inventory status, and staff performance for better decision-making.
 
 ## 👨‍💻 Author
 
